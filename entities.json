@@ -1,0 +1,39 @@
+{
+    "DATE": [
+        "December 5th",
+        "January 1st",
+        "July 3rd",
+        "October 2nd",
+        "end of the month",
+        "first Monday of the month",
+        "first day of the month",
+        "yesterday",
+        "tomorrow"
+    ],
+    "LOCATION": [
+        "building",
+        "hotel",
+        "room",
+        "office",
+        "restaurant",
+        "home"
+    ],
+    "PERIOD_OF_DAY": [
+        "morning",
+        "after lunch",
+        "11 am",
+        "3 pm",
+        "evening",
+        "noon",
+        "afternoon"
+    ],
+    "MEETING_TYPE": [
+        "monthly",
+        "annual",
+        "weekly",
+        "evaluation",
+        "urgent",
+        "progress report",
+        "online"
+    ]
+}

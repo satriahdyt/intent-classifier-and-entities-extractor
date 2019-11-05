@@ -1,0 +1,70 @@
+{
+    "intents": [
+        {
+            "tag": "schedule meeting",
+            "patterns": [
+                "please schedule a meeting with",
+                "make an appointment in my calendar",
+                "i want to meet someone at",
+                "can you save the date for",
+                "set a meeting",
+                "make a meeting schedule",
+                "create a meeting schedule",
+                "free my schedule at"
+            ]
+        },
+        {
+            "tag": "ree schedule",
+            "patterns": [
+                "what is his free schedule",
+                "check their free schedule",
+                "tell me her free schedule",
+                "when am i going to have free time",
+                "open my schedule and show me the free time",
+                "when is he be able to have a meeting with me",
+                "can you check her availability",
+                "when will she available"
+            ]
+        },
+        {
+            "tag": "meeting location",
+            "patterns": [
+                "where is the meeting held",
+                "tell me the place of the meeting",
+                "please show location of the meeting",
+                "how far is the meeting place",
+                "do you know the meeting location",
+                "get info about where the meeting take place",
+                "what is the room number for the meeting",
+                "take me to the meeting location using google maps"
+            ]
+        },
+		{
+            "tag": "meeting time",
+            "patterns": [
+                "tell me the time of the meeting",
+                "what time is the meeting going to start",
+                "please send all members the meeting schedule",
+                "show me the meeting schedule for today",
+                "when are we going to held the meeting",
+                "what is the meeting schedule for tomorrow",
+                "check the meeting time for tomorrow",
+                "when was the meeting"
+            ]
+        },
+        {
+            "tag": "meeting objective",
+            "patterns": [
+                "what was the meeting about",
+                "can you tell me the meeting result",
+                "what is the meeting goal",
+                "is there any issue to be discussed",
+                "what are we going to discuss at the meeting",
+                "tell me the meeting objective",
+                "give me all meeting details",
+                "show me information regarding the meeting"
+            ]
+        }
+        
+    ]
+}
